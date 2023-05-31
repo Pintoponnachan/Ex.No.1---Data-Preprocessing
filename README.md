@@ -87,12 +87,18 @@ print("Size of X_test: ",len(X_test))
 ```
 ## OUTPUT:
 ![228591926-618062d0-fd7f-4181-a042-e1ee43a5d18d](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/121a68b1-669b-46f9-8218-5de69ca46ed8)
+
 ![228591956-89263e4a-45cf-4eb3-89bd-16cf0a40c178](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/d5a62e83-3804-43fa-bc32-fae8f9792feb)
+
 ![228591978-71bd9fb4-acf6-4ed6-885e-4de18ae8af1c](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/99b1c7ff-75a2-4130-a329-fa32e4ea5ee5)
+
 ![228592025-54fdf899-60b9-40a2-b60b-1d23ce73db9b](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/152df5e8-3e18-4712-b296-3c742c219a53)
+
 ![228592074-afc9569f-958d-40d3-8b2c-3ea72552aad0](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/f6e5f1ba-a002-46a3-a12d-742786c0ab4b)
+
 ![228592117-6fb6d8af-aaa9-45b9-96e4-6c2a6ce265de](https://github.com/Pintoponnachan/Ex.No.1---Data-P![228592156-e5dbfef8-79bd-43c0-9d3c-96cd94e854a4](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/5346de52-d2b4-49da-aa88-8b2f0f9d63b9)
-reprocessing/assets/131936892/e4ec44a9-8189-4dba-85cd-437d80a5bd90)
+
+![image](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/1245da62-53e8-47bf-b3ac-0d6625775744)
 
 
 ## RESULT
