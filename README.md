@@ -96,10 +96,10 @@ print("Size of X_test: ",len(X_test))
 
 ![228592074-afc9569f-958d-40d3-8b2c-3ea72552aad0](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/f6e5f1ba-a002-46a3-a12d-742786c0ab4b)
 
-![228592117-6fb6d8af-aaa9-45b9-96e4-6c2a6ce265de](https://github.com/Pintoponnachan/Ex.No.1---Data-P![228592156-e5dbfef8-79bd-43c0-9d3c-96cd94e854a4](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/5346de52-d2b4-49da-aa88-8b2f0f9d63b9)
+![image](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/618ef5d5-ca19-4043-9d09-59ba541d8205)
 
-![image](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/1245da62-53e8-47bf-b3ac-0d6625775744)
+![image](https://github.com/Pintoponnachan/Ex.No.1---Data-Preprocessing/assets/131936892/8668a6af-d2a2-4adc-8c51-4562bf8382f6)
 
 
 ## RESULT
-/Type your result here/
+Data preprocessing is performed in the given dataset.
