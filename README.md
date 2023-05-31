@@ -32,6 +32,7 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
+```
 import pandas as pd
 
 df = pd.read_csv("Churn_Modelling.csv")
@@ -83,7 +84,7 @@ print("Size of X_train: ",len(X_train))
 
 print(X_test)
 print("Size of X_test: ",len(X_test))
-
+```
 ## OUTPUT:
 / Show the result/
 
