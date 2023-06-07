@@ -32,6 +32,11 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
+
+Developed by:-pinto ponnachan
+
+212221040121
+
 ```
 import pandas as pd
 
